@@ -2,7 +2,7 @@
 
 const Home = () => {
   return (
-    <div>page</div>
+    <section className="w-full flex-center flex-col"></section>
   )
 }
 
